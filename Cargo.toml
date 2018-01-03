@@ -9,4 +9,4 @@ readme = "README.md"
 description = "This is a (nightly-only) library for check SIMD features at runtime (raw ASM)"
 
 [dependencies]
-lazy_static = "*"
+lazy_static = "1.0.0"
