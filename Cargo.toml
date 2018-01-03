@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Felix Schütt <felix.schuett@maps4print.com>"]
 repository = "https://github.com/fschutt/simd-runtime-check-x64"
 homepage = "https://github.com/fschutt/simd-runtime-check-x64"
-license = "MIT"
+license = "Apache-2.0"
 readme = "README.md"
 description = "This is a (nightly-only) library for check SIMD features at runtime (raw ASM)"
 
